@@ -1,5 +1,5 @@
 ---
-name: Upton O. Goode
+name: Nabil Alshurafa
 image: images/member.jpg
 description: Bone Investigator
 role: pi
