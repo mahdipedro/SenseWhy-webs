@@ -1,5 +1,5 @@
 ---
-name: Felix Cited
+name: Jeb Sumeracki
 image: images/member.jpg
 description: Treat Researcher
 role: phd
