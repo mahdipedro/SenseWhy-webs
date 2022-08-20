@@ -1,6 +1,6 @@
 ---
 name: Mahdi Pedram
-image: images/member.jpg
+image: images/mahdi.png
 description: Bark Ops Engineer
 role: programmer
 aliases:
