@@ -1,6 +1,6 @@
 ---
 name: Jeb Sumeracki
-image: images/member.jpg
+image: images/jeb.png
 description: Treat Researcher
 role: phd
 group: alum
