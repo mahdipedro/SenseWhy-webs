@@ -53,7 +53,7 @@ Our work is made possible by funding from several organizations.
   link3="https://nasa.gov/"
   tooltip3="Cool Initiative"
 
-  image4="images/nh.png"
+  image4="images/nih-logo.jpeg"
   link4="https://nasa.gov/"
   tooltip4="Cool Foundation"
 
