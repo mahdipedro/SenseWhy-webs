@@ -2,10 +2,10 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# SenseWhy
 
 Our lab is at the intersection of computer science and preventive medicine. Through analysis of continuous streams of data provided by smartphones and wearable sensors, we use signal processing intelligence and machine learning to understand a person’s moment-to-moment behavior, psychological states, and environmental context in which the behavior occurs. We design, build and analyze end-to-end mobile health (mHealth) systems while focusing on processing their data to help answer health-related questions.
-
+<!-- 
 {%
   include link.html
   type="github"
@@ -21,7 +21,7 @@ Our lab is at the intersection of computer science and preventive medicine. Thro
   text="See the documentation"
   link="https://github.com/greenelab/lab-website-template/wiki"
   style="button"
-%}
+%} -->
 {:.center}
 
 {% include section.html full=true %}
