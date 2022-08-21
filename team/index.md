@@ -63,15 +63,15 @@ Our work is made possible by funding from several organizations.
   include gallery.html
   style="square"
 
-  image1="images/photo.jpg"
-  link1="https://nasa.gov/"
-  tooltip1="Cool Foundation"
+  image1="images/NSF.PNG"
+  link1="[https://nasa.gov/](https://www.nsf.gov/)"
+  tooltip1="National Science Foundation"
 
-  image2="images/photo.jpg"
-  link2="https://nasa.gov/"
-  tooltip2="Cool Institute"
+  image2="images/nh.png"
+  link2="[https://nasa.gov/](https://www.nih.gov/)"
+  tooltip2="National Institutes of Health"
 
-  image3="images/photo.jpg"
+<!--   image3="images/photo.jpg"
   link3="https://nasa.gov/"
   tooltip3="Cool Initiative"
 
@@ -85,5 +85,5 @@ Our work is made possible by funding from several organizations.
 
   image6="images/photo.jpg"
   link6="https://nasa.gov/"
-  tooltip6="Cool Initiative"
+  tooltip6="Cool Initiative" -->
 %}
