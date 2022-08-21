@@ -16,19 +16,19 @@ We are a friendly, forward-thinking collective, an approachable team with a can-
   include list.html
   data="members"
   component="portrait"
-  filters="role: pi"
+<!--   filters="role: pi" -->
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: programmer"
+<!--   filters="role: programmer" -->
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: phd"
+<!--   filters="role: phd" -->
 %}
 {:.center}
 
