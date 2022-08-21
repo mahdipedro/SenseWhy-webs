@@ -1,7 +1,7 @@
 ---
 name: Nabil Alshurafa
 image: images/pro-big.png
-description: Bone Investigator
+description: Founder
 role: pi
 aliases:
   - U. Goode
