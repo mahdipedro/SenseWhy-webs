@@ -50,7 +50,7 @@ Our work is made possible by funding from several organizations.
 
 
   image3="images/NSF.png"
-  link3="[https://nasa.gov/](https://www.nsf.gov/)"
+  link3="https://www.nsf.gov/"
   tooltip3="Cool Initiative"
 
   image4="images/NIH.png"
