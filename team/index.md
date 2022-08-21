@@ -39,7 +39,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## Join
+<!-- ## Join
 
 #### Post Dogtoral Researcher
 
@@ -52,7 +52,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
 {:.center}
 
-{% include section.html %}
+{% include section.html %} -->
 
 ## Funding
 
