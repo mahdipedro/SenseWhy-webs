@@ -1,7 +1,7 @@
 ---
 name: Mahdi Pedram
 image: images/mahdi.png
-description: Hardware Engineer
+description: Hardware Engineer/CTO
 role: programmer
 aliases:
   - A. Chovie
