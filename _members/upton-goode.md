@@ -1,6 +1,6 @@
 ---
 name: Nabil Alshurafa
-image: images/member.jpg
+image: images/pro-big.png
 description: Bone Investigator
 role: pi
 aliases:
