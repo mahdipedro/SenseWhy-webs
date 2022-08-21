@@ -1,7 +1,7 @@
 ---
 name: Mahdi Pedram
 image: images/mahdi.png
-description: Bark Ops Engineer
+description: Hardware Engineer
 role: programmer
 aliases:
   - A. Chovie
