@@ -32,10 +32,10 @@ We are a friendly, forward-thinking collective, an approachable team with a can-
 %}
 {:.center}
 
-{% include section.html background="images/banner.jpg" dark=true%}
+<!-- {% include section.html background="images/banner.jpg" dark=true%}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. -->
 
 {% include section.html %}
 
