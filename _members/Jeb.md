@@ -1,7 +1,7 @@
 ---
 name: Jeb Sumeracki
 image: images/jeb.png
-description: Treat Researcher
+description: Software Engineer
 role: phd
 group: alum
 aliases:
