@@ -1,7 +1,7 @@
 ---
 name: Josiah Hester
 image: images/josiah.jpeg
-description: Founder
+description: Co-Founder
 role: founder
 aliases:
   - U. Goode
