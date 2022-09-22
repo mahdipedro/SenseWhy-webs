@@ -31,8 +31,7 @@ Our compnay is at the intersection of computer science and preventive medicine. 
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+mHealth 
 
 {%
   include link.html
@@ -48,7 +47,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="Our Story"
   text=text
 %}
 
