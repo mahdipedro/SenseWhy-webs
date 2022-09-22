@@ -1,6 +1,6 @@
 ---
-name: Nabil Alshurafa
-image: images/pro-big.png
+name: Josiah Hester
+image: images/josiah.jpeg
 description: Founder
 role: pi
 aliases:
