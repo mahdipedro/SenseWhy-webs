@@ -2,7 +2,7 @@
 name: Chris Romano
 image: images/chris.jpeg
 description: Researcher
-role: pi
+role: member1
 aliases:
   - U. Goode
   - U. O. Goode
