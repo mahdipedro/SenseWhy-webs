@@ -26,8 +26,6 @@ Our compnay is at the intersection of computer science and preventive medicine. 
 
 {% include section.html full=true %}
 
-[comment]: <> ({% include banner.html image="images/banner.jpg" %})
-
 {% include section.html %}
 
 # Highlights
