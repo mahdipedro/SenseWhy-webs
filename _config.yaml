@@ -6,12 +6,12 @@ description: Our lab is at the intersection of computer science and preventive m
 logo: images/SenseWhy_logov2.png
 header: images/background.jpg
 footer: images/background.jpg
-baseurl: /lab-website-template
+baseurl: 
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
+  email: mahdi.pedram91@gmail.com
+  google-scholar:
   github: your-lab
   twitter: YourLabHandle
   instagram: YourLabHandle
