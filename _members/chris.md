@@ -1,7 +1,7 @@
 ---
 name: Chris Romano
 image: images/josiah.jpeg
-description: Founder
+description: Researcher
 role: pi
 aliases:
   - U. Goode
