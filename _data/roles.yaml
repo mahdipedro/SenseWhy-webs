@@ -1,22 +1,26 @@
-pi:
+cto:
   icon: fas fa-microscope
-  text: Principal Investigator
+  text: CTO
 
 postdoc:
   icon: fas fa-glasses
   text: Postdoctoral Researcher
 
-phd:
+member1:
   icon: fas fa-graduation-cap
-  text: PhD Student
+  text: Researcher
 
-undergrad:
+member2:
   icon: fas fa-user-graduate
-  text: Undergraduate Student
+  text: Engineer
 
 programmer:
   icon: fas fa-code
   text: Programmer
+  
+founder:
+  icon: fas fa-microscope
+  text: Co Founder
 
 mascot:
   icon: fas fa-dog
