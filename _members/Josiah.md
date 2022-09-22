@@ -2,7 +2,7 @@
 name: Josiah Hester
 image: images/josiah.jpeg
 description: Founder
-role: pi
+role: founder
 aliases:
   - U. Goode
   - U. O. Goode
