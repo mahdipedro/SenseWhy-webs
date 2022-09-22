@@ -1,7 +1,7 @@
 ---
 name: Nabil Alshurafa
 image: images/pro-big.png
-description: Founder
+description: Co-Founder
 role: founder
 aliases:
   - U. Goode
