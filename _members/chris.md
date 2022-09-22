@@ -1,6 +1,6 @@
 ---
 name: Chris Romano
-image: images/josiah.jpeg
+image: images/chris.jpeg
 description: Researcher
 role: pi
 aliases:
