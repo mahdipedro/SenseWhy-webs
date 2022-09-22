@@ -1,18 +1,18 @@
- ---
+---
 name: Chris Romano
-image: images/member.jpg
-description: Treat Researcher
-role: phd
-group: alum
+image: images/josiah.jpeg
+description: Founder
+role: pi
 aliases:
-  - F. Cited
-  - F Cited
+  - U. Goode
+  - U. O. Goode
+  - U Goode
 links:
-  home-page: felixcited.com
-  email: felix@cited.com
-  twitter: felixcited
+  orcid: 0000-0001-8713-9213
+  email: upton@ogoode.com
+  twitter: uptonogoode
 ---
 
-Felix is a good dog.
+Upton is a good dog.
 He studied at the University of Good Dogs.
 He likes pets, walkies, and treats.
