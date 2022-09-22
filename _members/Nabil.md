@@ -2,7 +2,7 @@
 name: Nabil Alshurafa
 image: images/pro-big.png
 description: Founder
-role: pi
+role: founder
 aliases:
   - U. Goode
   - U. O. Goode
