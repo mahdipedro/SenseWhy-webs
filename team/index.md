@@ -28,6 +28,12 @@ We are a friendly, forward-thinking collective, an approachable team with a can-
   include list.html
   data="members"
   component="portrait"
+  filters="role: member1"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: founder"
 %}
 {:.center}
