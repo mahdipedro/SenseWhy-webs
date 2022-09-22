@@ -2,7 +2,7 @@
 name: Jeb Sumeracki
 image: images/jeb.png
 description: Software Engineer
-role: phd
+role: engineer
 group: alum
 aliases:
   - F. Cited
