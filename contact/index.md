@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our company is located at 505 N McClurg Ct. Apt 801, Chicago IL 60611
+Our company is located at 505 N McClurg Ct., Chicago IL 60611
 
 {%
   include link.html
@@ -33,7 +33,7 @@ Our company is located at 505 N McClurg Ct. Apt 801, Chicago IL 60611
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
+  link="https://www.google.com/maps/place/505+N+McClurg+Ct,+Chicago,+IL+60611/@41.8915286,-87.6218113,17z/data=!3m1!4b1!4m6!3m5!1s0x880e2b55bea4de4b:0x2814ebcb9d62ecb5!8m2!3d41.8915247!4d-87.6173266!16s%2Fg%2F11b8v5cklz"
   style="button"
 %}
 {:.center}
