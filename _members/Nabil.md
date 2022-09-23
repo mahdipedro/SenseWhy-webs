@@ -9,7 +9,7 @@ aliases:
   - U Goode
 links:
   orcid: 0000-0001-8713-9213
-  email: upton@ogoode.com
+  email: nabil@sensewhyinc.com
   twitter: uptonogoode
 ---
 
