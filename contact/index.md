@@ -7,16 +7,15 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our company is located at 505 N McClurg Ct. Apt 801, Chicago IL 60611
 
 {%
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text="info@sensewhyinc.com"
   tooltip=""
-  link="scrooge@mcduck.com"
+  link="info@sensewhyinc.com"
   style="button"
 %}
 {%
