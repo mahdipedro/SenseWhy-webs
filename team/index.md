@@ -1,7 +1,7 @@
 ---
 title: Team
 nav:
-  order: 4
+  order: 3
   tooltip: About our team
 ---
 
@@ -30,6 +30,8 @@ We are a friendly, forward-thinking collective, an approachable team with a can-
   component="portrait"
   filters="role: member1"
 %}
+
+
 {%
   include list.html
   data="members"
