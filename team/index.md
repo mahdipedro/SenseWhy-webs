@@ -25,8 +25,8 @@ We are a friendly, forward-thinking collective, an approachable team with a can-
   filters="role: engineer"
 %}
 
-%
-%
+
+
 
 {%
   include list.html
