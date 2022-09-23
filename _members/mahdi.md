@@ -7,9 +7,9 @@ aliases:
   - A. Chovie
   - A Chovie
 links:
-  home-page: annechovie.com
-  email: anne@chovie.com
-  github: anne-chovie
+  home-page: https://mahdipedro.github.io//
+  email: mahdi@sensewhyinc.com
+  github: mahdipedro
 ---
 
 Anne is a good dog.
