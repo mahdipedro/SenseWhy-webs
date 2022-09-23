@@ -42,9 +42,8 @@ Our company is located at 505 N McClurg Ct., Chicago IL 60611
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
+505 N McClurg Ct., Chicago IL 60611  
+USA
 {:.center}
 
 {% capture col1 %}
