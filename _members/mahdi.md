@@ -11,7 +11,4 @@ links:
   email: mahdi@sensewhyinc.com
   github: mahdipedro
 ---
-
-Anne is a good dog.
-She studied at the University of Good Dogs.
-She likes pets, walkies, and treats.
+I received my Ph.D. in Computer Engineering from Washington State University in 2021. I currently work on health monitoring projects related to stress detection and eating behavior recognition.
