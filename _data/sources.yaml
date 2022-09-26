@@ -15,7 +15,7 @@
     - Mobile Computing, Machine Learning
     
 - id: https://doi.org/10.1145/3411824
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  image: images/synch.png
   extra-links:
     - type: manubot
       link: https://dl.acm.org/doi/abs/10.1145/3411824
