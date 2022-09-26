@@ -27,6 +27,25 @@
   tags:
   - Wearables, Machine Learning
   _cache: 4df104b391723e2611510c8ba9509c9b07f5c4976651f7292e1c4521e001ae2f
+- id: https://doi.org/10.1145/3410530.3414397
+  title: 'VibroScale: turning your smartphone into a weighing scale'
+  authors:
+  - Shibo Zhang
+  - Qiuyang Xu
+  - Sougata Sen
+  - Nabil Alshurafa
+  publisher: Adjunct Proceedings of the 2020 ACM International Joint Conference on
+    Pervasive and Ubiquitous Computing and Proceedings of the 2020 ACM International
+    Symposium on Wearable Computers
+  date: '2020-09-10'
+  link: https://doi.org/10.1145/3410530.3414397
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  extra-links:
+  - type: manubot
+    link: https://dl.acm.org/doi/abs/10.1145/3410530.3414397
+  tags:
+  - Mobile Computing, Machine Learning
+  _cache: edd2a1ce9a9f65b2b8d59d38757dfb7cdc215c515d7025cde6cb4ac24450a275
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
