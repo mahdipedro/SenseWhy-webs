@@ -1,8 +1,8 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1145/3494991
-  title: FaceBit
+- id: https://doi.org/10.1145/3494991
+  title: 'FaceBit: Smart Face Masks Platform'
   authors:
   - Alexander Curtiss
   - Blaine Rothrock
@@ -19,14 +19,14 @@
   publisher: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
     Technologies
   date: 1900-1-1
-  link: https://doi.org/gn3cd8
+  link: https://doi.org/10.1145/3494991
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
   extra-links:
   - type: manubot
     link: https://dl.acm.org/doi/abs/10.1145/3494991
   tags:
   - Wearables, Machine Learning
-  _cache: 43f30d4384d5b04c822a68a2a850c97d007599af62dff2cdca35fc2726d7c30b
+  _cache: 22103e990bb546fdf93cc48efc7088cb7eb1e9ce96ab9432f220a74f97ae5609
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
