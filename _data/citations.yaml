@@ -11,7 +11,7 @@
   link: https://dl.acm.org/doi/abs/10.1145/3494991
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
   extra-links:
-  - type: PDF
+  - type: manubot
     link: https://josiahhester.com/cv/files/facebit-paper.pdf
   tags:
   - FaceBit
