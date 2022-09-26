@@ -13,7 +13,15 @@
       link: https://dl.acm.org/doi/abs/10.1145/3410530.3414397
   tags:
     - Mobile Computing, Machine Learning
-
+    
+- id: https://doi.org/10.1145/3411824
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  extra-links:
+    - type: manubot
+      link: https://dl.acm.org/doi/abs/10.1145/3411824
+  tags:
+    - Mobile Computing, Machine Learning
+    
 - id: doi:10.1371/journal.pcbi.1007128
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
   repo: greenelab/meta-review
