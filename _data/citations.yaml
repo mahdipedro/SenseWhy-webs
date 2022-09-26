@@ -1,21 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1145/3494991
+  title: FaceBit: Smart Face Masks Platform
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
+  - NABIL ALSHURAFA
+  - JOSIAH HESTER
+  publisher: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+  date: '2021-12-30'
+  link: https://dl.acm.org/doi/abs/10.1145/3494991
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
   extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
+  - type: PDF
+    link: https://josiahhester.com/cv/files/facebit-paper.pdf
   tags:
-  - knowledge graphs
+  - FaceBit
   _cache: 371e391cc663116136dc43f4c93ebdc2998f52a3abd67c7add918c3b9f4f98d9
+  
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
@@ -39,6 +40,7 @@
   - type: website
     link: http://manubot.org/
   _cache: 9b4d326347b4c43474de520edff579266c3c490e1baf4a2074ea151d6c90e318
+  
 - id: doi:10.7554/eLife.32822
   title: Sci-Hub provides access to nearly all scholarly literature
   authors:
