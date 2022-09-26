@@ -19,7 +19,7 @@ Our compnay is at the intersection of computer science and preventive medicine. 
   type="docs"
   icon=""
   text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
+  link=""
   style="button"
 %} -->
 {:.center}
