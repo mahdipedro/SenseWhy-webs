@@ -16,7 +16,6 @@
   tags:
   - FaceBit
   _cache: 371e391cc663116136dc43f4c93ebdc2998f52a3abd67c7add918c3b9f4f98d9
-  
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
@@ -40,7 +39,6 @@
   - type: website
     link: http://manubot.org/
   _cache: 9b4d326347b4c43474de520edff579266c3c490e1baf4a2074ea151d6c90e318
-  
 - id: doi:10.7554/eLife.32822
   title: Sci-Hub provides access to nearly all scholarly literature
   authors:
