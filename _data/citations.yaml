@@ -39,13 +39,13 @@
     Symposium on Wearable Computers
   date: '2020-09-10'
   link: https://doi.org/10.1145/3410530.3414397
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  image: images/vibroscale.png
   extra-links:
   - type: manubot
     link: https://dl.acm.org/doi/abs/10.1145/3410530.3414397
   tags:
   - Mobile Computing, Machine Learning
-  _cache: edd2a1ce9a9f65b2b8d59d38757dfb7cdc215c515d7025cde6cb4ac24450a275
+  _cache: b4e273e9e0a18a0a511a3a2f63a78aa9afb8eb3c6764960dc897c796b2f053dd
 - id: https://doi.org/10.1145/3411824
   title: 'SyncWISE: Window Induced Shift Estimation for Synchronization of Video and
     Accelerometry from Wearable Sensors'
