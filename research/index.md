@@ -7,8 +7,6 @@ nav:
 
 # <i class="fas fa-microscope"></i>Research
 
-Here are some of our previous selected publications:
-
 {% include section.html %}
 
 {% include search-box.html %}
