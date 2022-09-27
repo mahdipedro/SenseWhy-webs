@@ -6,6 +6,14 @@
   tags:
     - Wearables, Machine Learning
     
+- id: 10.1109/PerCom53586.2022.9762385
+  image: images/actisight.png
+  extra-links:
+    - type: manubot
+      link: https://ieeexplore.ieee.org/document/9762385
+  tags:
+    - Wearables, Machine Learning
+    
 - id: https://doi.org/10.1145/3410530.3414397
   image: images/vibroscale.png
   extra-links:
