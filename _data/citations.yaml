@@ -27,6 +27,25 @@
   tags:
   - Wearables, Machine Learning
   _cache: b25e273dec8314dd9526a5f01787ad5cb707daa2bd9a1cd85fab3bc06ff20dda
+- id: 10.1109/PerCom53586.2022.9762385
+  title: 'ActiSight: Wearer Foreground Extraction Using a Practical RGB-Thermal Wearable'
+  authors:
+  - Rawan Alharbi
+  - Sougata Sen
+  - Ada Ng
+  - Nabil Alshurafa
+  - Josiah Hester
+  publisher: 2022 IEEE International Conference on Pervasive Computing and Communications
+    (PerCom)
+  date: '2022-03-21'
+  link: https://doi.org/gqwmq7
+  image: images/actisight.png
+  extra-links:
+  - type: manubot
+    link: https://ieeexplore.ieee.org/document/9762385
+  tags:
+  - Wearables, Machine Learning
+  _cache: d075d8310b299ce9715501105e2a7606428a39f4a5c635a86a9a42f094514de5
 - id: https://doi.org/10.1145/3410530.3414397
   title: 'VibroScale: turning your smartphone into a weighing scale'
   authors:
