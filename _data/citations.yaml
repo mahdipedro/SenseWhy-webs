@@ -46,6 +46,28 @@
   tags:
   - Mobile Computing, Machine Learning
   _cache: b4e273e9e0a18a0a511a3a2f63a78aa9afb8eb3c6764960dc897c796b2f053dd
+- id: https://doi.org/10.1145/3397313
+  title: 'NeckSense: A Multi-Sensor Necklace for Detecting Eating Activities in Free-Living
+    Conditions'
+  authors:
+  - Shibo Zhang
+  - Yuqi Zhao
+  - Dzung Tri Nguyen
+  - Runsheng Xu
+  - Sougata Sen
+  - Josiah Hester
+  - Nabil Alshurafa
+  publisher: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
+    Technologies
+  date: '2020-06-15'
+  link: https://doi.org/10.1145/3397313
+  image: images/necksense.png
+  extra-links:
+  - type: manubot
+    link: https://dl.acm.org/doi/abs/10.1145/3397313?casa_token=9tooeuDt1mkAAAAA:ERCLKS0R_-0fRPLchzWHgyJzhiWlf6SMglMrCjGnqjZm0fAY4g4wMJql9L5D752QAhQ0cXw-PMFNEw
+  tags:
+  - Mobile Computing, Machine Learning, Wearables
+  _cache: 30e3d8b08c3b80db45c698f1c3e76ac47bcbbdeff0ad22d6715f0ec31c049609
 - id: https://doi.org/10.1145/3411824
   title: 'SyncWISE: Window Induced Shift Estimation for Synchronization of Video and
     Accelerometry from Wearable Sensors'
